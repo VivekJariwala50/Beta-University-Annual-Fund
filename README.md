@@ -45,6 +45,6 @@ The system generates several types of reports:
 
 ## Technologies Used
 
-- **Database Management System (DBMS)**: [Your DBMS of choice]
+- **Database Management System (DBMS)**: Oracle
 - **Security**: Implemented database security features for sensitive data.
-- **Tools**: Microsoft Word for document generation, ER diagrams, and relational schema design.
+- **Tools and Languages**: Microsoft Word for document generation, ER diagrams, and relational schema design, SQL, MS Excel, MS Visio.
